@@ -1,4 +1,4 @@
-# GeoMessage Specification
+# geomsg Specification
 
 ## The specificaton
 Pack a [GeoJSON](https://datatracker.ietf.org/doc/draft-butler-geojson/) into [MessagePack](http://msgpack.org) and thats all.

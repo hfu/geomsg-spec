@@ -1,0 +1,2 @@
+# geomsg-spec
+GeoMessage Specification
